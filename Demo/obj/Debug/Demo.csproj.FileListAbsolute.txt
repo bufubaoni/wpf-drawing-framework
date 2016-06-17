@@ -1,0 +1,147 @@
+H:\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.exe
+H:\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.pdb
+H:\Projects\VisualStudio\Map\Demo\bin\Debug\Map.dll
+H:\Projects\VisualStudio\Map\Demo\bin\Debug\Map.pdb
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\MainWindow.baml
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\MainWindow.g.cs
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\App.g.cs
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo_MarkupCompile.cache
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.g.resources
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.Properties.Resources.resources
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.exe
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.pdb
+H:\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.exe.manifest
+H:\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.application
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.exe.manifest
+H:\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.application
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.exe
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.pdb
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.exe.manifest
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.application
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.exe
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.pdb
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\bin\Debug\Map.dll
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\bin\Debug\Map.pdb
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\MainWindow.baml
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\MainWindow.g.cs
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\App.g.cs
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo_MarkupCompile.cache
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.g.resources
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.Properties.Resources.resources
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.exe.manifest
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.application
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\cross.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\drawgraphicline.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\hand.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\movehand.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\scale.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\zoomin.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Cursors\zoomout.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.exe.manifest
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.application
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.exe
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Map.dll
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Triangulator.dll
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Map.pdb
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Triangulator.pdb
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Triangulator.xml
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\MainWindow.baml
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\MainWindow.g.cs
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\App.g.cs
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo_MarkupCompile.cache
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.g.resources
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.exe.manifest
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.application
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.exe
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\obj\Debug\Demo.pdb
+E:\Documents\Dev\Projects\VisualStudio\Map\Demo\bin\Debug\Demo.pdb
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.exe
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.pdb
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\MainWindow.baml
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\MainWindow.g.cs
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\App.g.cs
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo_MarkupCompile.cache
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.g.resources
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\cross.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\drawgraphicline.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\hand.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\movehand.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\scale.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\zoomin.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Cursors\zoomout.cur
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Demo.exe.manifest
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Demo.application
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Demo.exe
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Demo.pdb
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Map.dll
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Map.pdb
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Triangulator.pdb
+D:\Dev\Microsoft\Framework\Map\Demo\bin\Debug\Triangulator.xml
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.exe.manifest
+D:\Dev\Microsoft\Framework\Map\Demo\obj\Debug\Demo.application
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.exe
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.pdb
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\cross.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\drawgraphicline.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\hand.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\movehand.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\scale.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\zoomin.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\zoomout.cur
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.exe.manifest
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.application
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.exe
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.pdb
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Map.dll
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Map.pdb
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Triangulator.pdb
+J:\devs\microsoft\framework\Map\Demo\bin\Debug\Triangulator.xml
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\MainWindow.baml
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\MainWindow.g.cs
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\App.g.cs
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo_MarkupCompile.cache
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.g.resources
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.Properties.Resources.resources
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.exe.manifest
+J:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.application
+K:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.exe
+K:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.pdb
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.exe
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.pdb
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\cross.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\drawgraphicline.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\hand.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\movehand.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\scale.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\zoomin.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Cursors\zoomout.cur
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.exe.manifest
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.application
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.exe
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Demo.pdb
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Map.dll
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Map.pdb
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Triangulator.pdb
+E:\devs\microsoft\framework\Map\Demo\bin\Debug\Triangulator.xml
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\MainWindow.baml
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\MainWindow.g.cs
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\App.g.cs
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo_MarkupCompile.cache
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.g.resources
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.exe.manifest
+E:\devs\microsoft\framework\Map\Demo\obj\Debug\Demo.application

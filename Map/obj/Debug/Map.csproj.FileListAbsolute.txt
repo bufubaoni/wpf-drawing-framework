@@ -1,0 +1,56 @@
+H:\Projects\VisualStudio\Map\Map\bin\Debug\Map.dll
+H:\Projects\VisualStudio\Map\Map\bin\Debug\Map.pdb
+H:\Projects\VisualStudio\Map\Map\obj\Debug\Map.dll
+H:\Projects\VisualStudio\Map\Map\obj\Debug\Map.pdb
+H:\Projects\VisualStudio\Map\Map\obj\Debug\Map.csprojResolveAssemblyReference.cache
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Map\bin\Debug\Map.dll
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Map\bin\Debug\Map.pdb
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Map\obj\Debug\Map.dll
+H:\Documents\Mr Peng\Developement\Projects\VisualStudio\Map\Map\obj\Debug\Map.pdb
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\cross.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\drawgraphicline.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\hand.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\movehand.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\scale.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\zoomin.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Cursors\zoomout.cur
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Map.dll
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\bin\Debug\Map.pdb
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\obj\Debug\Map.dll
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\obj\Debug\Map.pdb
+E:\Documents\Dev\Projects\VisualStudio\Map\Map\obj\Debug\Map.csprojResolveAssemblyReference.cache
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\cross.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\drawgraphicline.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\hand.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\movehand.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\scale.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\zoomin.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Cursors\zoomout.cur
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Map.dll
+D:\Dev\Microsoft\Framework\Map\Map\bin\Debug\Map.pdb
+D:\Dev\Microsoft\Framework\Map\Map\obj\Debug\Map.dll
+D:\Dev\Microsoft\Framework\Map\Map\obj\Debug\Map.pdb
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\cross.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\drawgraphicline.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\hand.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\movehand.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\scale.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\zoomin.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\zoomout.cur
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Map.dll
+J:\devs\microsoft\framework\Map\Map\bin\Debug\Map.pdb
+J:\devs\microsoft\framework\Map\Map\obj\Debug\Map.csprojResolveAssemblyReference.cache
+J:\devs\microsoft\framework\Map\Map\obj\Debug\Map.dll
+J:\devs\microsoft\framework\Map\Map\obj\Debug\Map.pdb
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\cross.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\drawgraphicline.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\hand.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\movehand.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\scale.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\zoomin.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Cursors\zoomout.cur
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Map.dll
+E:\devs\microsoft\framework\Map\Map\bin\Debug\Map.pdb
+E:\devs\microsoft\framework\Map\Map\obj\Debug\Map.csprojResolveAssemblyReference.cache
+E:\devs\microsoft\framework\Map\Map\obj\Debug\Map.dll
+E:\devs\microsoft\framework\Map\Map\obj\Debug\Map.pdb

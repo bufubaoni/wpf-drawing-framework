@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Triangulator</name>
+    </assembly>
+    <members>
+        <member name="T:Triangulator.Delauney">
+            <summary>
+            在顶点集上执行Delauney三角化.
+            </summary>
+            <remarks>
+            基于Paul Bourke的“在地形模型应用程序中使用的不规则间隔数据的一种插值算法”
+            </remarks>
+        </member>
+        <!-- 对于成员“M:Triangulator.Delauney.Triangulate(System.Collections.Generic.List{Triangulator.Geometry.Point})”忽略有格式错误的 XML 注释 -->
+        <member name="M:Triangulator.Delauney.InCircle(Triangulator.Geometry.Point,Triangulator.Geometry.Point,Triangulator.Geometry.Point,Triangulator.Geometry.Point)">
+            <summary>
+            如果点p位于由p1，p2，p3组成的外接圆内，返回真
+            </summary>
+            <remarks>
+            注: 在边上也认为在外接圆内
+            </remarks>
+            <param name="p">测试点</param>
+            <param name="p1">圆上第一点</param>
+            <param name="p2">圆上第二点</param>
+            <param name="p3">圆上第三点</param>
+            <returns>如果p在圆内返回真</returns>
+        </member>
+        <member name="T:Triangulator.Geometry.Edge">
+            <summary>
+            创建于两顶点编号的边
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Edge.p1">
+            <summary>
+            起点编号
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Edge.p2">
+            <summary>
+            终点编号
+            </summary>
+        </member>
+        <member name="M:Triangulator.Geometry.Edge.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Initializes a new edge instance
+            </summary>
+            <param name="point1">Start edge vertex index</param>
+            <param name="point2">End edge vertex index</param>
+        </member>
+        <member name="M:Triangulator.Geometry.Edge.#ctor">
+            <summary>
+            Initializes a new edge instance with start/end indexes of '0'
+            </summary>
+        </member>
+        <member name="M:Triangulator.Geometry.Edge.Equals(Triangulator.Geometry.Edge)">
+            <summary>
+            Checks whether two edges are equal disregarding the direction of the edges
+            </summary>
+            <param name="other"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Triangulator.Geometry.Point">
+            <summary>
+            具有双精度的2维点
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Point._X">
+            <summary>
+            X component of point
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Point._Y">
+            <summary>
+            Y component of point
+            </summary>
+        </member>
+        <member name="M:Triangulator.Geometry.Point.#ctor(System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of a point
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:Triangulator.Geometry.Point.Equals2D(Triangulator.Geometry.Point)">
+            <summary>
+            Makes a planar checks for if the points is spatially equal to another point.
+            </summary>
+            <param name="other">Point to check against</param>
+            <returns>True if X and Y values are the same</returns>
+        </member>
+        <member name="P:Triangulator.Geometry.Point.X">
+            <summary>
+            Gets or sets the X component of the point
+            </summary>
+        </member>
+        <member name="P:Triangulator.Geometry.Point.Y">
+            <summary>
+            Gets or sets the Y component of the point
+            </summary>
+        </member>
+        <member name="T:Triangulator.Geometry.Triangle">
+            <summary>
+            由三个顶点编号组成的三角形
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Triangle.p1">
+            <summary>
+            三角形的第一个顶点
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Triangle.p2">
+            <summary>
+            三角形的第二个顶点
+            </summary>
+        </member>
+        <member name="F:Triangulator.Geometry.Triangle.p3">
+            <summary>
+            三角形的第三个顶点
+            </summary>
+        </member>
+        <member name="M:Triangulator.Geometry.Triangle.#ctor(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Initializes a new instance of a triangle
+            </summary>
+            <param name="point1">Vertex 1</param>
+            <param name="point2">Vertex 2</param>
+            <param name="point3">Vertex 3</param>
+        </member>
+    </members>
+</doc>
